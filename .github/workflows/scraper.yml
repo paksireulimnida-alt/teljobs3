@@ -1,7 +1,10 @@
 name: Glints Hourly Scraper
 
 on:
-  workflow_dispatch: # Triggered by cron-job.org
+  workflow_dispatch:
+  schedule:
+    # Berjalan tiap jam 02:30, 07:30, 12:30, 17:30, 22:30 (WIB)
+    - cron: "30 0,5,10,15,19 * * *"
 
 jobs:
   scrape:
@@ -45,4 +48,3 @@ jobs:
         git diff-index --quiet HEAD || git commit -m "Update job history [skip ci]"
         git pull --rebase origin main
         git push
-
