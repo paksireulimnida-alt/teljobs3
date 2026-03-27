@@ -1,95 +1,5 @@
 [
   {
-    "id": "koordinator gudang-pt global edervin berkarya",
-    "title": "Koordinator Gudang",
-    "company": "PT Global Edervin Berkarya",
-    "firstSeen": "2026-03-04T19:03:06.826Z",
-    "lastSeen": "2026-03-06T01:18:45.973Z",
-    "seenCount": 1,
-    "lastNotified": "2026-03-04T19:03:06.826Z"
-  },
-  {
-    "id": "senior admin sales order-pt. mest indonesiy",
-    "title": "SENIOR ADMIN SALES ORDER",
-    "company": "PT. Mest Indonesiy",
-    "firstSeen": "2026-03-04T21:02:54.395Z",
-    "lastSeen": "2026-03-10T01:05:18.883Z",
-    "seenCount": 14,
-    "lastNotified": "2026-03-04T21:02:54.395Z"
-  },
-  {
-    "id": "sales - medical device (cardiology, oncology, surgical, & critical care)-ids medical systems group",
-    "title": "Sales - Medical Device (Cardiology, Oncology, Surgical, & Critical Care)",
-    "company": "IDS Medical Systems Group",
-    "firstSeen": "2026-03-04T21:02:54.395Z",
-    "lastSeen": "2026-03-04T23:02:39.041Z",
-    "seenCount": 1,
-    "lastNotified": "2026-03-04T21:02:54.395Z"
-  },
-  {
-    "id": "sales bahan bangunan (medan)-pt global indonesia asia sejahtera",
-    "title": "Sales Bahan Bangunan (Medan)",
-    "company": "PT Global Indonesia Asia Sejahtera",
-    "firstSeen": "2026-03-04T21:02:54.396Z",
-    "lastSeen": "2026-03-04T23:02:39.041Z",
-    "seenCount": 1,
-    "lastNotified": "2026-03-04T21:02:54.396Z"
-  },
-  {
-    "id": "admin weighbridge-pt. mest indonesiy",
-    "title": "Admin Weighbridge",
-    "company": "PT. Mest Indonesiy",
-    "firstSeen": "2026-03-04T21:02:54.396Z",
-    "lastSeen": "2026-03-10T01:05:18.883Z",
-    "seenCount": 14,
-    "lastNotified": "2026-03-04T21:02:54.396Z"
-  },
-  {
-    "id": "sales supervisor - alcohol product-pt. dima indonesia",
-    "title": "Sales Supervisor - Alcohol Product",
-    "company": "PT. Dima Indonesia",
-    "firstSeen": "2026-03-04T21:02:54.396Z",
-    "lastSeen": "2026-03-04T23:02:39.041Z",
-    "seenCount": 1,
-    "lastNotified": "2026-03-04T21:02:54.396Z"
-  },
-  {
-    "id": "digital marketing (content creator)-pt. muning trade internasional",
-    "title": "Digital Marketing (Content Creator)",
-    "company": "PT. Muning Trade Internasional",
-    "firstSeen": "2026-03-04T21:02:56.952Z",
-    "lastSeen": "2026-03-04T23:02:39.041Z",
-    "seenCount": 1,
-    "lastNotified": "2026-03-04T21:02:56.952Z"
-  },
-  {
-    "id": "hoa area medan-pt aroma prima livindo",
-    "title": "HOA AREA MEDAN",
-    "company": "PT Aroma Prima Livindo",
-    "firstSeen": "2026-03-04T21:02:56.952Z",
-    "lastSeen": "2026-03-04T23:02:39.041Z",
-    "seenCount": 1,
-    "lastNotified": "2026-03-04T21:02:56.952Z"
-  },
-  {
-    "id": "field support (internet)-pt netciti persada",
-    "title": "Field Support (Internet)",
-    "company": "PT Netciti Persada",
-    "firstSeen": "2026-03-04T21:02:56.952Z",
-    "lastSeen": "2026-03-04T23:02:39.041Z",
-    "seenCount": 1,
-    "lastNotified": "2026-03-04T21:02:56.952Z"
-  },
-  {
-    "id": "admin pembelian-by noma",
-    "title": "ADMIN PEMBELIAN",
-    "company": "BY NOMA",
-    "firstSeen": "2026-03-04T21:02:56.952Z",
-    "lastSeen": "2026-03-10T01:05:18.883Z",
-    "seenCount": 14,
-    "lastNotified": "2026-03-04T21:02:56.952Z"
-  },
-  {
     "id": "terapis aba, okupasi, wicara-star champion therapy",
     "title": "TERAPIS ABA, OKUPASI, WICARA",
     "company": "Star Champion Therapy",
@@ -1417,8 +1327,8 @@
     "title": "Facebook",
     "company": "LokerMedan",
     "firstSeen": "2026-03-06T15:03:24.515Z",
-    "lastSeen": "2026-03-22T19:59:15.800Z",
-    "seenCount": 47,
+    "lastSeen": "2026-03-27T05:59:09.311Z",
+    "seenCount": 48,
     "lastNotified": "2026-03-06T15:03:24.515Z"
   },
   {
@@ -1426,8 +1336,8 @@
     "title": "Twitter",
     "company": "LokerMedan",
     "firstSeen": "2026-03-06T15:03:24.515Z",
-    "lastSeen": "2026-03-22T19:59:15.800Z",
-    "seenCount": 47,
+    "lastSeen": "2026-03-27T05:59:09.311Z",
+    "seenCount": 48,
     "lastNotified": "2026-03-06T15:03:24.515Z"
   },
   {
@@ -1759,8 +1669,8 @@
     "title": "CLEANING SERVICE",
     "company": "LokerMedan",
     "firstSeen": "2026-03-07T07:03:35.226Z",
-    "lastSeen": "2026-03-21T19:58:14.216Z",
-    "seenCount": 21,
+    "lastSeen": "2026-03-27T05:59:09.311Z",
+    "seenCount": 22,
     "lastNotified": "2026-03-07T07:03:35.226Z"
   },
   {
@@ -3343,8 +3253,8 @@
     "title": "IT Engineer - Network & Service Desk",
     "company": "Mewah Group",
     "firstSeen": "2026-03-10T02:38:43.581Z",
-    "lastSeen": "2026-03-22T20:00:36.604Z",
-    "seenCount": 21,
+    "lastSeen": "2026-03-27T06:00:21.625Z",
+    "seenCount": 22,
     "lastNotified": "2026-03-10T02:38:43.581Z"
   },
   {
@@ -4126,8 +4036,8 @@
     "title": "Technician Medan",
     "company": "PT Karya Solusi Prima Sejahtera",
     "firstSeen": "2026-03-11T18:09:50.867Z",
-    "lastSeen": "2026-03-22T20:00:36.604Z",
-    "seenCount": 39,
+    "lastSeen": "2026-03-27T06:00:21.625Z",
+    "seenCount": 40,
     "lastNotified": "2026-03-11T18:09:50.867Z"
   },
   {
@@ -5251,8 +5161,8 @@
     "title": "DATA ANALYST",
     "company": "PT Usaha Prima Nusantara",
     "firstSeen": "2026-03-14T07:28:06.028Z",
-    "lastSeen": "2026-03-22T20:01:16.415Z",
-    "seenCount": 56,
+    "lastSeen": "2026-03-27T06:00:21.626Z",
+    "seenCount": 57,
     "lastNotified": "2026-03-14T07:28:06.028Z"
   },
   {
@@ -5638,8 +5548,8 @@
     "title": "DRIVER",
     "company": "LokerMedan",
     "firstSeen": "2026-03-15T05:50:33.808Z",
-    "lastSeen": "2026-03-21T19:58:14.216Z",
-    "seenCount": 13,
+    "lastSeen": "2026-03-27T05:59:09.311Z",
+    "seenCount": 14,
     "lastNotified": "2026-03-15T05:50:33.808Z"
   },
   {
@@ -5818,8 +5728,8 @@
     "title": "Project Manager",
     "company": "Pengiklan Anonim",
     "firstSeen": "2026-03-15T20:04:56.765Z",
-    "lastSeen": "2026-03-22T20:00:54.846Z",
-    "seenCount": 25,
+    "lastSeen": "2026-03-27T06:00:21.625Z",
+    "seenCount": 26,
     "lastNotified": "2026-03-15T20:04:56.765Z"
   },
   {
@@ -6151,8 +6061,8 @@
     "title": "System Administrator",
     "company": "PT Solusi Nusantara",
     "firstSeen": "2026-03-17T05:39:07.852Z",
-    "lastSeen": "2026-03-24T05:40:28.997Z",
-    "seenCount": 113,
+    "lastSeen": "2026-03-27T06:00:21.626Z",
+    "seenCount": 114,
     "lastNotified": "2026-03-17T05:39:07.852Z"
   },
   {
@@ -6844,8 +6754,8 @@
     "title": "Full Stack Developer",
     "company": "PT Iweka Digital Solusi",
     "firstSeen": "2026-03-18T21:09:45.187Z",
-    "lastSeen": "2026-03-22T20:00:36.604Z",
-    "seenCount": 34,
+    "lastSeen": "2026-03-27T06:00:21.625Z",
+    "seenCount": 35,
     "lastNotified": "2026-03-18T21:09:45.187Z"
   },
   {
@@ -6970,8 +6880,8 @@
     "title": "SATPAM",
     "company": "LokerMedan",
     "firstSeen": "2026-03-19T12:03:07.698Z",
-    "lastSeen": "2026-03-21T19:58:14.216Z",
-    "seenCount": 6,
+    "lastSeen": "2026-03-27T05:59:09.311Z",
+    "seenCount": 7,
     "lastNotified": "2026-03-19T12:03:07.698Z"
   },
   {
@@ -6979,8 +6889,8 @@
     "title": "IT HELPDESK STAFF",
     "company": "PT CIPTA MAPAN LOGISTIK (LINC GROUP - member of PT LAUTAN LUAS, Tbk.)",
     "firstSeen": "2026-03-19T12:04:10.971Z",
-    "lastSeen": "2026-03-22T20:00:36.605Z",
-    "seenCount": 29,
+    "lastSeen": "2026-03-27T06:00:21.626Z",
+    "seenCount": 30,
     "lastNotified": "2026-03-19T12:04:10.971Z"
   },
   {
@@ -6988,8 +6898,8 @@
     "title": "Senior Project Staff",
     "company": "BISA GROUP",
     "firstSeen": "2026-03-19T12:04:10.971Z",
-    "lastSeen": "2026-03-22T20:01:16.415Z",
-    "seenCount": 42,
+    "lastSeen": "2026-03-27T06:00:21.625Z",
+    "seenCount": 43,
     "lastNotified": "2026-03-19T12:04:10.971Z"
   },
   {
@@ -7006,8 +6916,8 @@
     "title": "Coordinator (Korlap)",
     "company": "PT Fiberhome Technologies Indonesia",
     "firstSeen": "2026-03-19T12:04:31.640Z",
-    "lastSeen": "2026-03-22T20:00:36.604Z",
-    "seenCount": 15,
+    "lastSeen": "2026-03-27T06:00:21.625Z",
+    "seenCount": 16,
     "lastNotified": "2026-03-19T12:04:31.640Z"
   },
   {
@@ -7411,8 +7321,8 @@
     "title": "PENGAJAR BAHASA INGGRIS SMP-SMA",
     "company": "SMA",
     "firstSeen": "2026-03-21T05:01:10.763Z",
-    "lastSeen": "2026-03-21T19:58:14.216Z",
-    "seenCount": 5,
+    "lastSeen": "2026-03-27T05:59:09.311Z",
+    "seenCount": 6,
     "lastNotified": "2026-03-21T05:01:10.763Z"
   },
   {
@@ -7816,8 +7726,8 @@
     "title": "Lead Engineer (Trijo Medan)",
     "company": "PT UNISKAI PETUALANGAN SELANGIT",
     "firstSeen": "2026-03-23T18:09:40.086Z",
-    "lastSeen": "2026-03-23T21:09:05.449Z",
-    "seenCount": 2,
+    "lastSeen": "2026-03-27T06:00:21.625Z",
+    "seenCount": 3,
     "lastNotified": "2026-03-23T18:09:40.086Z"
   },
   {
@@ -8998,5 +8908,95 @@
     "lastSeen": "2026-03-26T21:05:44.952Z",
     "seenCount": 1,
     "lastNotified": "2026-03-26T21:05:44.952Z"
+  },
+  {
+    "id": "finance accounting staff-lokermedan",
+    "title": "FINANCE ACCOUNTING STAFF",
+    "company": "LokerMedan",
+    "firstSeen": "2026-03-27T05:59:06.550Z",
+    "lastSeen": "2026-03-27T05:59:06.550Z",
+    "seenCount": 1,
+    "lastNotified": "2026-03-27T05:59:06.550Z"
+  },
+  {
+    "id": "facility-lokermedan",
+    "title": "FACILITY",
+    "company": "LokerMedan",
+    "firstSeen": "2026-03-27T05:59:06.551Z",
+    "lastSeen": "2026-03-27T05:59:06.551Z",
+    "seenCount": 1,
+    "lastNotified": "2026-03-27T05:59:06.551Z"
+  },
+  {
+    "id": "radiografer-lokermedan",
+    "title": "RADIOGRAFER",
+    "company": "LokerMedan",
+    "firstSeen": "2026-03-27T05:59:06.551Z",
+    "lastSeen": "2026-03-27T05:59:06.551Z",
+    "seenCount": 1,
+    "lastNotified": "2026-03-27T05:59:06.551Z"
+  },
+  {
+    "id": "ahli gizi-lokermedan",
+    "title": "AHLI GIZI",
+    "company": "LokerMedan",
+    "firstSeen": "2026-03-27T05:59:06.551Z",
+    "lastSeen": "2026-03-27T05:59:06.551Z",
+    "seenCount": 1,
+    "lastNotified": "2026-03-27T05:59:06.551Z"
+  },
+  {
+    "id": "perawat/penata anestesi-lokermedan",
+    "title": "PERAWAT/PENATA ANESTESI",
+    "company": "LokerMedan",
+    "firstSeen": "2026-03-27T05:59:06.551Z",
+    "lastSeen": "2026-03-27T05:59:06.551Z",
+    "seenCount": 1,
+    "lastNotified": "2026-03-27T05:59:06.551Z"
+  },
+  {
+    "id": "perawat kamar bedah-lokermedan",
+    "title": "PERAWAT KAMAR BEDAH",
+    "company": "LokerMedan",
+    "firstSeen": "2026-03-27T05:59:09.311Z",
+    "lastSeen": "2026-03-27T05:59:09.311Z",
+    "seenCount": 1,
+    "lastNotified": "2026-03-27T05:59:09.311Z"
+  },
+  {
+    "id": "teknisi komputer-pt. seven natural indonesia",
+    "title": "Teknisi Komputer",
+    "company": "PT. Seven Natural Indonesia",
+    "firstSeen": "2026-03-27T06:00:21.626Z",
+    "lastSeen": "2026-03-27T06:00:21.626Z",
+    "seenCount": 1,
+    "lastNotified": "2026-03-27T06:00:21.626Z"
+  },
+  {
+    "id": "it support-pt leomas anugerah bersaudara",
+    "title": "IT SUPPORT",
+    "company": "PT Leomas Anugerah Bersaudara",
+    "firstSeen": "2026-03-27T06:00:21.626Z",
+    "lastSeen": "2026-03-27T06:00:21.626Z",
+    "seenCount": 1,
+    "lastNotified": "2026-03-27T06:00:21.626Z"
+  },
+  {
+    "id": "it support staff (medan)-pt saba indomedika",
+    "title": "IT Support Staff (Medan)",
+    "company": "PT Saba Indomedika",
+    "firstSeen": "2026-03-27T06:00:21.626Z",
+    "lastSeen": "2026-03-27T06:00:21.626Z",
+    "seenCount": 1,
+    "lastNotified": "2026-03-27T06:00:21.626Z"
+  },
+  {
+    "id": "trainer network (medan)-pt global yimi cargo (j&t cargo)",
+    "title": "Trainer Network (Medan)",
+    "company": "PT Global Yimi Cargo (J&T Cargo)",
+    "firstSeen": "2026-03-27T06:00:21.626Z",
+    "lastSeen": "2026-03-27T06:00:21.626Z",
+    "seenCount": 1,
+    "lastNotified": "2026-03-27T06:00:21.626Z"
   }
 ]
