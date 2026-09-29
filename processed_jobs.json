@@ -1,68 +1,5 @@
 [
   {
-    "id": "administrasi sistem operasi-cv yorora persada",
-    "title": "Administrasi Sistem Operasi",
-    "company": "Cv yorora persada",
-    "firstSeen": "2026-08-31T05:59:19.080Z",
-    "lastSeen": "2026-09-29T06:04:09.145Z",
-    "seenCount": 133,
-    "lastNotified": "2026-08-31T05:59:19.080Z"
-  },
-  {
-    "id": "branch relation officer(pembukaan rekening bank bumn)-pt mitra andal perdana",
-    "title": "BRANCH RELATION OFFICER(PEMBUKAAN REKENING BANK BUMN)",
-    "company": "PT Mitra Andal Perdana",
-    "firstSeen": "2026-08-31T06:00:14.728Z",
-    "lastSeen": "2026-09-01T05:32:47.801Z",
-    "seenCount": 2,
-    "lastNotified": "2026-08-31T06:00:14.728Z"
-  },
-  {
-    "id": "anggota pemasangan dan produksi-creative custome",
-    "title": "ANGGOTA PEMASANGAN dan PRODUKSI",
-    "company": "Creative Custome",
-    "firstSeen": "2026-08-31T06:00:14.728Z",
-    "lastSeen": "2026-09-07T22:15:06.163Z",
-    "seenCount": 4,
-    "lastNotified": "2026-08-31T06:00:14.728Z"
-  },
-  {
-    "id": "marketing lead (onsite in medan)-pt inovasi jelajah dunia",
-    "title": "Marketing Lead (Onsite in Medan)",
-    "company": "PT Inovasi Jelajah Dunia",
-    "firstSeen": "2026-08-31T17:42:44.460Z",
-    "lastSeen": "2026-09-29T06:03:52.447Z",
-    "seenCount": 269,
-    "lastNotified": "2026-08-31T17:42:44.460Z"
-  },
-  {
-    "id": "digital marketing specialist-exstore",
-    "title": "DIGITAL MARKETING SPECIALIST",
-    "company": "Exstore",
-    "firstSeen": "2026-08-31T17:43:29.874Z",
-    "lastSeen": "2026-09-29T06:03:31.309Z",
-    "seenCount": 290,
-    "lastNotified": "2026-08-31T17:43:29.874Z"
-  },
-  {
-    "id": "management trainee head of branch operations-pt baraka sarana tama",
-    "title": "MANAGEMENT TRAINEE HEAD OF BRANCH OPERATIONS",
-    "company": "Pt Baraka Sarana Tama",
-    "firstSeen": "2026-08-31T17:45:21.586Z",
-    "lastSeen": "2026-09-10T21:48:52.293Z",
-    "seenCount": 71,
-    "lastNotified": "2026-08-31T17:45:21.586Z"
-  },
-  {
-    "id": "canvasser-pt indako trading coy",
-    "title": "Canvasser",
-    "company": "Pt Indako Trading Coy",
-    "firstSeen": "2026-08-31T17:45:21.586Z",
-    "lastSeen": "2026-09-21T05:20:29.983Z",
-    "seenCount": 107,
-    "lastNotified": "2026-08-31T17:45:21.586Z"
-  },
-  {
     "id": "outlet leader - happy land, tamora-cv sinar karunia jaya",
     "title": "Outlet Leader - Happy Land, Tamora",
     "company": "CV Sinar Karunia Jaya",
@@ -6394,8 +6331,8 @@
     "title": "Facebook",
     "company": "LokerMedan",
     "firstSeen": "2026-09-20T14:21:36.591Z",
-    "lastSeen": "2026-09-27T22:32:17.720Z",
-    "seenCount": 15,
+    "lastSeen": "2026-09-29T16:38:27.978Z",
+    "seenCount": 16,
     "lastNotified": "2026-09-20T14:21:36.591Z"
   },
   {
@@ -8998,5 +8935,68 @@
     "lastSeen": "2026-09-29T06:05:28.145Z",
     "seenCount": 1,
     "lastNotified": "2026-09-29T06:05:28.145Z"
+  },
+  {
+    "id": "relationship officer program-pt bank central asia tbk (bca)",
+    "title": "RELATIONSHIP OFFICER PROGRAM",
+    "company": "PT Bank Central Asia Tbk (BCA)",
+    "firstSeen": "2026-09-29T16:36:13.353Z",
+    "lastSeen": "2026-09-29T16:39:18.877Z",
+    "seenCount": 26,
+    "lastNotified": "2026-09-29T16:36:13.353Z"
+  },
+  {
+    "id": "management development program (mdp)-pt bank central asia tbk (bca)",
+    "title": "MANAGEMENT DEVELOPMENT PROGRAM (MDP)",
+    "company": "PT Bank Central Asia Tbk (BCA)",
+    "firstSeen": "2026-09-29T16:36:13.354Z",
+    "lastSeen": "2026-09-29T16:39:18.877Z",
+    "seenCount": 26,
+    "lastNotified": "2026-09-29T16:36:13.354Z"
+  },
+  {
+    "id": "recruitment staff-pt puriasri bhaktikarya",
+    "title": "RECRUITMENT STAFF",
+    "company": "PT Puriasri Bhaktikarya",
+    "firstSeen": "2026-09-29T16:36:13.354Z",
+    "lastSeen": "2026-09-29T16:39:18.877Z",
+    "seenCount": 26,
+    "lastNotified": "2026-09-29T16:36:13.354Z"
+  },
+  {
+    "id": "field collection bank mandiri penempatan subang-pt puriasri bhaktikarya",
+    "title": "FIELD COLLECTION BANK MANDIRI PENEMPATAN SUBANG",
+    "company": "PT Puriasri Bhaktikarya",
+    "firstSeen": "2026-09-29T16:36:13.354Z",
+    "lastSeen": "2026-09-29T16:39:18.877Z",
+    "seenCount": 26,
+    "lastNotified": "2026-09-29T16:36:13.354Z"
+  },
+  {
+    "id": "magang bakti customer service - pembukaan rekening online-pt bank central asia tbk (bca)",
+    "title": "MAGANG BAKTI CUSTOMER SERVICE - PEMBUKAAN REKENING ONLINE",
+    "company": "PT Bank Central Asia Tbk (BCA)",
+    "firstSeen": "2026-09-29T16:36:13.354Z",
+    "lastSeen": "2026-09-29T16:39:18.877Z",
+    "seenCount": 13,
+    "lastNotified": "2026-09-29T16:36:13.354Z"
+  },
+  {
+    "id": "magang bakti (frontliner)-pt bank central asia tbk (bca)",
+    "title": "MAGANG BAKTI (Frontliner)",
+    "company": "PT Bank Central Asia Tbk (BCA)",
+    "firstSeen": "2026-09-29T16:36:16.074Z",
+    "lastSeen": "2026-09-29T16:39:18.877Z",
+    "seenCount": 13,
+    "lastNotified": "2026-09-29T16:36:16.074Z"
+  },
+  {
+    "id": "twitter-lokermedan",
+    "title": "Twitter",
+    "company": "LokerMedan",
+    "firstSeen": "2026-09-29T16:38:27.978Z",
+    "lastSeen": "2026-09-29T16:38:27.978Z",
+    "seenCount": 1,
+    "lastNotified": "2026-09-29T16:38:27.978Z"
   }
 ]
