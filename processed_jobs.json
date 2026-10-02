@@ -1,23 +1,5 @@
 [
   {
-    "id": "content creator-big sun digital",
-    "title": "Content Creator",
-    "company": "Big Sun Digital",
-    "firstSeen": "2026-08-31T17:45:56.368Z",
-    "lastSeen": "2026-09-22T15:07:44.663Z",
-    "seenCount": 141,
-    "lastNotified": "2026-08-31T17:45:56.368Z"
-  },
-  {
-    "id": "social media content specialist-big sun digital",
-    "title": "Social Media Content Specialist",
-    "company": "Big Sun Digital",
-    "firstSeen": "2026-08-31T17:45:56.368Z",
-    "lastSeen": "2026-09-29T06:02:27.634Z",
-    "seenCount": 138,
-    "lastNotified": "2026-08-31T17:45:56.368Z"
-  },
-  {
     "id": "rider kopi keliling medan-fourme coffee",
     "title": "Rider kopi keliling MEDAN",
     "company": "Fourme Coffee",
@@ -6322,8 +6304,8 @@
     "title": "Facebook",
     "company": "LokerMedan",
     "firstSeen": "2026-09-20T14:21:36.591Z",
-    "lastSeen": "2026-10-01T23:24:13.032Z",
-    "seenCount": 23,
+    "lastSeen": "2026-10-02T06:04:27.589Z",
+    "seenCount": 24,
     "lastNotified": "2026-09-20T14:21:36.591Z"
   },
   {
@@ -8932,8 +8914,8 @@
     "title": "RELATIONSHIP OFFICER PROGRAM",
     "company": "PT Bank Central Asia Tbk (BCA)",
     "firstSeen": "2026-09-29T16:36:13.353Z",
-    "lastSeen": "2026-10-01T23:24:57.966Z",
-    "seenCount": 208,
+    "lastSeen": "2026-10-02T06:05:14.102Z",
+    "seenCount": 234,
     "lastNotified": "2026-09-29T16:36:13.353Z"
   },
   {
@@ -8941,8 +8923,8 @@
     "title": "MANAGEMENT DEVELOPMENT PROGRAM (MDP)",
     "company": "PT Bank Central Asia Tbk (BCA)",
     "firstSeen": "2026-09-29T16:36:13.354Z",
-    "lastSeen": "2026-10-01T23:24:57.966Z",
-    "seenCount": 208,
+    "lastSeen": "2026-10-02T06:05:14.102Z",
+    "seenCount": 234,
     "lastNotified": "2026-09-29T16:36:13.354Z"
   },
   {
@@ -8986,8 +8968,8 @@
     "title": "Twitter",
     "company": "LokerMedan",
     "firstSeen": "2026-09-29T16:38:27.978Z",
-    "lastSeen": "2026-10-01T23:24:13.032Z",
-    "seenCount": 8,
+    "lastSeen": "2026-10-02T06:04:27.589Z",
+    "seenCount": 9,
     "lastNotified": "2026-09-29T16:38:27.978Z"
   },
   {
@@ -8998,5 +8980,23 @@
     "lastSeen": "2026-09-30T05:54:16.034Z",
     "seenCount": 26,
     "lastNotified": "2026-09-30T05:51:17.830Z"
+  },
+  {
+    "id": "field collection (penempatan garut, singaparna dan bandung)-pt puriasri bhaktikarya",
+    "title": "Field Collection (Penempatan Garut, Singaparna dan Bandung)",
+    "company": "PT Puriasri Bhaktikarya",
+    "firstSeen": "2026-10-02T06:02:21.277Z",
+    "lastSeen": "2026-10-02T06:05:14.102Z",
+    "seenCount": 26,
+    "lastNotified": "2026-10-02T06:02:21.277Z"
+  },
+  {
+    "id": "sales generalis penempatan cirebon-pt puriasri bhaktikarya",
+    "title": "SALES GENERALIS PENEMPATAN CIREBON",
+    "company": "PT Puriasri Bhaktikarya",
+    "firstSeen": "2026-10-02T06:02:21.277Z",
+    "lastSeen": "2026-10-02T06:05:14.102Z",
+    "seenCount": 26,
+    "lastNotified": "2026-10-02T06:02:21.277Z"
   }
 ]
