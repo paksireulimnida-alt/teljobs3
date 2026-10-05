@@ -1,14 +1,5 @@
 [
   {
-    "id": "sales/canvassing bukuwarung medan-pt asia outsourcing services",
-    "title": "Sales/Canvassing BukuWarung Medan",
-    "company": "PT Asia Outsourcing Services",
-    "firstSeen": "2026-08-31T17:45:56.368Z",
-    "lastSeen": "2026-09-03T21:52:52.105Z",
-    "seenCount": 6,
-    "lastNotified": "2026-08-31T17:45:56.368Z"
-  },
-  {
     "id": "social media content specialist-cv.nikmat anugerah nusantara",
     "title": "Social Media Content Specialist",
     "company": "CV.Nikmat Anugerah Nusantara",
@@ -8896,8 +8887,8 @@
     "title": "RELATIONSHIP OFFICER PROGRAM",
     "company": "PT Bank Central Asia Tbk (BCA)",
     "firstSeen": "2026-09-29T16:36:13.353Z",
-    "lastSeen": "2026-10-04T22:30:45.183Z",
-    "seenCount": 494,
+    "lastSeen": "2026-10-05T06:08:53.378Z",
+    "seenCount": 520,
     "lastNotified": "2026-09-29T16:36:13.353Z"
   },
   {
@@ -8905,8 +8896,8 @@
     "title": "MANAGEMENT DEVELOPMENT PROGRAM (MDP)",
     "company": "PT Bank Central Asia Tbk (BCA)",
     "firstSeen": "2026-09-29T16:36:13.354Z",
-    "lastSeen": "2026-10-04T22:30:45.183Z",
-    "seenCount": 494,
+    "lastSeen": "2026-10-05T06:08:53.378Z",
+    "seenCount": 520,
     "lastNotified": "2026-09-29T16:36:13.354Z"
   },
   {
@@ -8986,8 +8977,8 @@
     "title": "SALES GENERALIS BANK MANDIRI PENEMPATAN KWALA BEGUMIT",
     "company": "PT Puriasri Bhaktikarya",
     "firstSeen": "2026-10-02T16:20:46.534Z",
-    "lastSeen": "2026-10-04T22:30:45.183Z",
-    "seenCount": 260,
+    "lastSeen": "2026-10-05T06:08:53.378Z",
+    "seenCount": 286,
     "lastNotified": "2026-10-02T16:20:46.534Z"
   },
   {
@@ -8998,5 +8989,14 @@
     "lastSeen": "2026-10-04T22:30:45.183Z",
     "seenCount": 260,
     "lastNotified": "2026-10-02T16:20:46.534Z"
+  },
+  {
+    "id": "sales generalis bank mandiri penempatan pamanukan-pt puriasri bhaktikarya",
+    "title": "SALES GENERALIS BANK MANDIRI PENEMPATAN PAMANUKAN",
+    "company": "PT Puriasri Bhaktikarya",
+    "firstSeen": "2026-10-05T06:05:19.260Z",
+    "lastSeen": "2026-10-05T06:08:53.378Z",
+    "seenCount": 26,
+    "lastNotified": "2026-10-05T06:05:19.260Z"
   }
 ]
